@@ -1,5 +1,5 @@
 # 💫 About Me:
-\I'm currently working on an AI based system for VFX.<br>I'm looking to collaborate projects that may be related AI/ML, VFX.<br>I'm currently learning the basics of AI/Ml and trying to make myself proficient in deepfakes and image generation.
+I'm currently working on an AI based system for VFX.<br>I'm looking to collaborate projects that may be related AI/ML, VFX.<br>I'm currently learning the basics of AI/Ml and trying to make myself proficient in deepfakes and image generation.
 
 
 ## 🌐 Socials:
